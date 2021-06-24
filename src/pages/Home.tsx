@@ -2,12 +2,12 @@ import { useHistory } from "react-router-dom";
 import { FormEvent, useState } from "react";
 import { database } from "../services/firebase";
 import { useAuth } from "../hooks/useAuth";
+import { Button } from "../components/Button";
 
 import illustrationImg from "../assets/images/illustration.svg";
 import logoImg from "../assets/images/logo.svg";
 import googleIconImg from "../assets/images/google-icon.svg";
 
-import { Button } from "../components/Button";
 
 import "../styles/auth.scss";
 
@@ -34,6 +34,11 @@ export function Home() {
 
     if (!roomRef.exists()) {
       alert("Room does not exists");
+      return;
+    }
+
+    if (roomRef.val().endedAt) {
+      alert('Room already closed');
       return;
     }
 
