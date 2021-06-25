@@ -8,10 +8,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[<img alt="react" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://reactjs.org)
-[<img alt="sass" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
-[<img alt="typescript" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
-[<img alt="firebase" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
+[<img align="left" alt="react" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://reactjs.org)
+[<img align="left" alt="sass" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
+[<img align="left" alt="typescript" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="firebase" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
 
 ## 🔖 Layout
 
