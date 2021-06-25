@@ -14,11 +14,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [<img align="left" alt="firebase" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
 
 <br />
+<br />
 
 ## 🔖 Layout
 
 - Este projeto foi desenvolvido usando [Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) (<img alt="figma" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />)
-<br />
+
 <br />
 
 ## 🚀 Como executar
@@ -26,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Clone o repositório `git clone https://github.com/arthurluciano/NLW6-ReactJS`
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn start`
-<br />
+
 <br />
 
 Após essas etapas, você pode acessar [`localhost:3000`](http://localhost:3000) no seu navegador.
