@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Como executar
 
 - Clone o repositório `git clone https://github.com/arthurluciano/NLW6-ReactJS`
-- Instale as dependências com `yarn`
+- Instale as dependências usando `yarn`
 - Inicie o servidor com `yarn start`
 
 <br />
