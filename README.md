@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-- Este projeto foi desenvolvido usando [Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) (<img alt="figma" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />)
+- Este projeto foi desenvolvido usando [Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) <img alt="figma" width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
 ## 🚀 Como executar
 
