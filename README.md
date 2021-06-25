@@ -13,9 +13,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [<img align="left" alt="typescript" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="firebase" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
 
+<br />
+
 ## 🔖 Layout
 
-- Este projeto foi desenvolvido usando figma <img alt="figma" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /> [Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
+- Este projeto foi desenvolvido usando [Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) (<img alt="figma" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />)
 
 ## 🚀 Como executar
 
